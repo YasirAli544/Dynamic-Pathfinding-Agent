@@ -72,6 +72,3 @@ python pathfinding_simple.py
 ---
 
 
-## Course
-
-**Artificial Intelligence** — National University of Computer & Emerging Sciences, Chiniot-Faisalabad Campus
