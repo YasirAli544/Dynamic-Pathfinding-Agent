@@ -2,6 +2,7 @@
 
 A real-time pathfinding visualizer built with Python and Pygame. Implements three AI search algorithms on a 20×20 interactive grid with dynamic obstacle support.
 
+---
 
 ## Algorithms
 
@@ -20,6 +21,22 @@ A real-time pathfinding visualizer built with Python and Pygame. Implements thre
 - **Interactive grid** — draw and erase walls by clicking and dragging
 - **Switch algorithms** mid-run with keyboard shortcuts
 - **Stats display** — nodes expanded, path cost, time elapsed, replan count
+
+---
+
+## Installation
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/YOUR_USERNAME/dynamic-pathfinding-agent.git
+cd dynamic-pathfinding-agent
+
+# 2. Install dependency
+pip install pygame
+
+# 3. Run
+python pathfinding_simple.py
+```
 
 ---
 
@@ -53,5 +70,8 @@ A real-time pathfinding visualizer built with Python and Pygame. Implements thre
 | ⬛ Dark | Wall |
 
 ---
+
+
+## Course
 
 **Artificial Intelligence** — National University of Computer & Emerging Sciences, Chiniot-Faisalabad Campus
